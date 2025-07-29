@@ -1,4 +1,4 @@
-# The Musical Lake
+# Software Developer Basic Test "The Musical Lake"
 One day, an explorer began following some strange sounds. They soon arrived at a lake where they found the source: three small animals making sounds similar to a song. After a short while, the explorer could differentiate which animal produced each sound.
 
 ## Sounds
