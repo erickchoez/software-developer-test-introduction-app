@@ -1,0 +1,7 @@
+services:
+  node.dev:
+    image: oven/bun:latest
+    volumes:
+      - ./:/app
+    working_dir: /app
+    entrypoint: bun index.ts
