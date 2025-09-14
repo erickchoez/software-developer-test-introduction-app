@@ -19,17 +19,12 @@ git clone <your-repo-url>
 cd the-musical-lake
 ```
 
-### 2. Create a new branch
-```bash
-git checkout -b feature/{first-name}-{last-name}-task-list
-```
-
-### 3. Build and start the app with Docker Compose
+### 2. Build and start the app with Docker Compose
 ```bash
 docker-compose up 
 ```
 
-### 4. Example Output
+### 3. Example Output
 When running the container, you will see results like:
 ```
 Input: brr
