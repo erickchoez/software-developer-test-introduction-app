@@ -6,8 +6,8 @@ It simulates three animals (frog, dragonfly, cricket) singing together and retur
 ---
 
 ## Requirements
-- [Docker](https://docs.docker.com/get-docker/) installed
-- [docker-compose](https://docs.docker.com/compose/install/) installed
+- [Docker](https://docs.docker.com/get-docker/) 
+- [docker-compose](https://docs.docker.com/compose/install/) 
 
 ---
 
