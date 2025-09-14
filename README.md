@@ -1,4 +1,4 @@
-# The Musical Lake 🎶
+# The Musical Lake
 
 This project solves the **Software Developer Basic Test: "The Musical Lake"**.  
 It simulates three animals (frog, dragonfly, cricket) singing together and returns the remaining sounds in a song sequence given an input sound.
